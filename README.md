@@ -9,8 +9,8 @@ Kit for running TouchDesigner (.tox) projects on a MozXR-compatible cluster usin
 
 ## Requirements
 
-- UE 5.7 (FL stereo patch) - [internal repo](https://git.aec.at/futurelab/mozxr/ue-source/-/tree/5.7_stereoFix)
-  - this is a UE source repo, it needs to be built, and the project opened with this custom-built UE editor
+- UE 5.7 (FL stereo patch) - [patch repo and instructions](https://github.com/MozXROrga/Unreal-Patch-5.7StereoFix)
+  - this is a patch for UE 5.7 source, this project needs to be built using this patched engine version
 - TouchEngine UE, `UE5.7-Release` - [github](https://github.com/TouchDesigner/TouchEngine-UE)
 - A TouchDesigner Commercial/Edu or Pro license valid for the version you use to produce the .tox files
 
