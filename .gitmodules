@@ -1,0 +1,33 @@
+[submodule "Plugins/MoxClusterSimulator"]
+	path = Plugins/MoxClusterSimulator
+	url = ../Unreal-Plugin-ClusterSimulator.git
+[submodule "Plugins/MoxNDisplayParser"]
+	path = Plugins/MoxNDisplayParser
+	url = ../Unreal-Plugin-NDisplayParser.git
+[submodule "Plugins/MoxPharus"]
+	path = Plugins/MoxPharus
+	url = ../Unreal-Plugin-Pharus.git
+[submodule "Plugins/MoxEditor"]
+	path = Plugins/MoxEditor
+	url = ../Unreal-Plugin-Editor.git
+[submodule "Plugins/MoxCustomConfig"]
+	path = Plugins/MoxCustomConfig
+	url = ../Unreal-Plugin-CustomConfig.git
+[submodule "Plugins/MoxInput"]
+	path = Plugins/MoxInput
+	url = ../Unreal-Plugin-Input.git
+[submodule "Plugins/MoxLisaBridge"]
+	path = Plugins/MoxLisaBridge
+	url = ../Unreal-Plugin-L-Isa.git
+[submodule "Plugins/MoxAbletonLive"]
+	path = Plugins/MoxAbletonLive
+	url = ../Unreal-Plugin-Ableton.git
+[submodule "Plugins/MoxTracking"]
+	path = Plugins/MoxTracking
+	url = ../Unreal-Plugin-Tracking.git
+[submodule "Plugins/MoxTDAudioInterface"]
+	path = Plugins/MoxTDAudioInterface
+	url = ../Unreal-Plugin-TDAudioInterface.git
+[submodule "Plugins/MoxUtility"]
+	path = Plugins/MoxUtility
+	url = ../Unreal-Plugin-Utility.git

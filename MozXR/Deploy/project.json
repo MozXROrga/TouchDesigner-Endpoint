@@ -1,0 +1,7 @@
+{
+    "startMap": "starterMap",
+    "version": "UE5.7",
+    "type": "touchdesigner",
+    "executable": "Build\\Windows\\ue_td_starter.exe",
+    "nDisplay": "Switchboard\\ND_X_Reality_Lab_4_Views.ndisplay"
+}
